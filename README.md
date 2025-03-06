@@ -3,3 +3,4 @@ Arduino Uno project for automatic solar panel tracking and control using LDR sen
 #connections
 i have provided the ppt in which u can find all the details of this project
 also u have to use 2 arduino's for this project where the task have been divided where the first arduino handles the opening and closing part of the panels along with the moisutre sensor and the second arduino handles the tracking part
+i have uploaded the indivual parts of the code as well for better understanding
